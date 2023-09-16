@@ -2,14 +2,30 @@
 
 > Status: Finished
 
-### It's a web application that consists of summarizing YouTube shorts with artificial intelligence from the link. It separates the videos so as not to result in a description for things other than shorts,
+<p align="center"> It's a web application that consists of summarizing YouTube shorts with artificial intelligence from the link. It separates the videos so as not to result in a description for things other than shorts </p>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
- The project was developed during Rocketseat week using:
- <table>
-<td>HTML</td>
-<td>CSS</td>
-<td>JavaScrip</td>
-<td>Node.js</td>
-<td>A.I.</td>
-</table>
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+- I.A
+
+## 💻 Projeto
+
+O Shorts Summary é um app que utiliza inteligência artificial para auxliar em resumos de shorts.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+<h3>Feito com ♥ by Rocketseat</h3> 
